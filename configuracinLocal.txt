@@ -1,0 +1,8 @@
+relza en misma orden
+1 cra un repositorio loca nombre repoEjercicio
+2 crea index.html con contenido 
+3 crea una carpeta css y una hoja de fondo azul
+4 confirma todos los cambios desde terminal
+5 registrarte de git lab y crea un repositorio basio 
+6 utilisa  sous tree bincular reposotorio remoto con reposutotio local 
+7 haser un copia desde repositotio remoto a ordenador 
