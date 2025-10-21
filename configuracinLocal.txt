@@ -6,3 +6,5 @@ relza en misma orden
 5 registrarte de git lab y crea un repositorio basio 
 6 utilisa  sous tree bincular reposotorio remoto con reposutotio local 
 7 haser un copia desde repositotio remoto a ordenador 
+
+ ssh-keygen -t ed25519 -C "ordenador-clase"
